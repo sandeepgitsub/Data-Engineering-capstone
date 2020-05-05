@@ -1,0 +1,1055 @@
+Code,City,State,Code Type
+ABE,Aberdeen, WA,Port Of Entry
+ABQ,Albuquerque, NM,Port Of Entry
+ADT,Amistad Dam, TX,Port Of Entry
+ALP,Alpena, MI,Port Of Entry
+AGN,Algonac, MI,Port Of Entry
+AKR,Akron, OH,Port Of Entry
+ALC,Alcan, AK,Port Of Entry
+ANA,Anacortes, WA,Port Of Entry
+AND,Andrade, CA,Port Of Entry
+ANT,Antler, ND,Port Of Entry
+ARU,Aruba,,Port Of Entry
+ATB,Ashtabula, OH,Port Of Entry
+ATW,Appleton, WI,Port Of Entry
+AXB,Alexandria Bay, NY,Port Of Entry
+BAU,Baudette, MN,Port Of Entry
+BBM,Brownsville, B&M Bridge,Port Of Entry
+BCY,Bay City, MI,Port Of Entry
+BEA,Beaumont, TX,Port Of Entry
+BEE,Beecher Falls, VT,Port Of Entry
+BGC,Bridgeport, CT,Port Of Entry
+BHM,Bar Harbor, ME,Port Of Entry
+BLA,Blaine, WA,Port Of Entry
+BOC,Boca Grande, FL,Port Of Entry
+BOS,Boston, MA,Port Of Entry
+BRO,Brownsville, TX,Port Of Entry
+BTM,Butte, MT,Port Of Entry
+BUF,Buffalo, NY,Port Of Entry
+BWM,Bridgewater, ME,Port Of Entry
+CAN,Cape Canaveral, FL,Port Of Entry
+CHA,"Charlotte Amalie, St. Thomas", VI,Port Of Entry
+CHF,Chief Mountain, MT,Port Of Entry
+CHL,Charleston, SC,Port Of Entry
+CHR,"Christiansted, St. Croix", VI,Port Of Entry
+CIN,Cincinnati, OH,Port Of Entry
+CLE,Cleveland, OH,Port Of Entry
+CLS,Calais, ME,Port Of Entry
+CNA,Canaan, VT,Port Of Entry
+CNJ,Camden, NJ,Port Of Entry
+COL,Columbus, NM,Port Of Entry
+COR,Corpus Christi, TX,Port Of Entry
+CRA,Crane Lake, MN,Port Of Entry
+CRU,"Cruz Bay, St. John", VI,Port Of Entry
+CRY,Carbury, ND,Port Of Entry
+DAL,Dallas, TX,Port Of Entry
+DBL,Dublin, Ireland,Port Of Entry
+DCB,Detroit,MI,Port Of Entry
+DEN,Denver, CO,Port Of Entry
+DET,Detroit, MI,Port Of Entry
+DLB,Del Bonita, MT,Port Of Entry
+DMA,Detroit, MI,Port Of Entry
+DNS,Dunseith, ND,Port Of Entry
+DSM,Des Moines, IA,Port Of Entry
+DVD,Dover, AFB DE,Port Of Entry
+EDA,Edmonton, AB Canada,Port Of Entry
+EGP,Eagle Pass, TX,Port Of Entry
+ELY,Ely, MN,Port Of Entry
+EPI,Eastport, ID,Port Of Entry
+ERC,East Richford, VT,Port Of Entry
+EVE,Everett, WA,Port Of Entry
+FAJ,Fajardo, PR,Port Of Entry
+FAR,Fargo, ND,Port Of Entry
+FDE,Eagle Pass, Fort Duncan Bridge,Port Of Entry
+FHK,Fort Hancock, TX,Port Of Entry
+FRB,Fairbanks, AK,Port Of Entry
+FRI,Friday Harbor, WA,Port Of Entry
+FRN,Fernandina, FL,Port Of Entry
+FTC,Fort Covington, NY,Port Of Entry
+FTH,Fort Hancock, NM,Port Of Entry
+FTL,Fort Lauderdale, FL,Port Of Entry
+FTM,Fort Meyers, FL,Port Of Entry
+GAL,Galveston, TX,Port Of Entry
+GEO,Georgetown, SC,Port Of Entry
+GLO,Gloucester, MA,Port Of Entry
+GPM,Grand Portage, MN,Port Of Entry
+GRE,Great Falls, MT,Port Of Entry
+GRO,Grosse Isle, MI,Port Of Entry
+GRR,Greer, SC,Port Of Entry
+GSN,"Saipan Island,", MP,Port Of Entry
+GUL,Gulfport, MS,Port Of Entry
+HAL,Halifax, Nova Scotia,Port Of Entry
+HAR,Harrisburg, PA,Port Of Entry
+HHW,Honolulu, HI,Port Of Entry
+HIG,Highgate Springs, VT,Port Of Entry
+HML,Hamlin, ME,Port Of Entry
+HNN,Hannah, ND,Port Of Entry
+HOB,Hoboken, NJ,Port Of Entry
+HOP,Hopewell, VA,Port Of Entry
+HSB,Harrisburg, PA,Port Of Entry
+HUM,Humacao, PR,Port Of Entry
+HYD,Hyder, AK,Port Of Entry
+INP,Indianapolis, IN,Port Of Entry
+ISB,Port Isabel, TX,Port Of Entry
+IVP,Calexico, Truck Crossing,Port Of Entry
+JER,Jersey City, NJ,Port Of Entry
+JOB,Jobos, PR,Port Of Entry
+KAL,Kalispell, MT,Port Of Entry
+KET,Ketchikan, AK,Port Of Entry
+KLM,Kalama, WA,Port Of Entry
+LAN,Lancaster, MN,Port Of Entry
+LAU,Laurier, WA,Port Of Entry
+LEB,Lebanon, ME,Port Of Entry
+LIM,Limestone, ME,Port Of Entry
+LLB,Laredo Juarez-Lincoln Bridge 2, TX,Port Of Entry
+LOI,Los Indios,,Port Of Entry
+LOR,Lorain, OH,Port Of Entry
+LOU,Louisville, KY,Port Of Entry
+LUB,Lubec, ME,Port Of Entry
+LVG,Las Vegas, NV,Port Of Entry
+LYN,Lynden, WA,Port Of Entry
+MAD,Madawaska, ME,Port Of Entry
+MAI,Maida, ND,Port Of Entry
+MAS,Massena, NY,Port Of Entry
+MCI,McAllen, TX,Port Of Entry
+MET,Metaline Falls, WA,Port Of Entry
+MGM,Morgan, MT,Port Of Entry
+MIL,Milwaukee, WI,Port Of Entry
+MNW,Manitowoc, WI,Port Of Entry
+MON,Montreal, Quebec,Port Of Entry
+MOR,Morses Line, VT,Port Of Entry
+MRH,Morehead City, NC,Port Of Entry
+MRY,Marysville, MI,Port Of Entry
+MTH,Marathon ARPT, FL,Port Of Entry
+NAC,Naco, AZ,Port Of Entry
+NEA,Neah Bay, WA,Port Of Entry
+NEW,Newark, NJ,Port Of Entry
+NIG,Nighthawk, WA,Port Of Entry
+NOG,Nogales, AZ,Port Of Entry
+NOM,Nome, AK,Port Of Entry
+NOR,Norfolk, VA,Port Of Entry
+NPV,Newport, VT,Port Of Entry
+NRN,Norton, VT,Port Of Entry
+NSV,Nashville, TN,Port Of Entry
+NWL,New London, CT,Port Of Entry
+NYC,New York, NY,Port Of Entry
+OAK,Oakland, CA,Port Of Entry
+OKC,Oklahoma City, OK,Port Of Entry
+OMA,Omaha, NE,Port Of Entry
+ORL,Orlando, FL,Port Of Entry
+OSW,Oswego, NY,Port Of Entry
+OTT,Ottawa, Canada,Port Of Entry
+PAR,Port Arthur, TX,Port Of Entry
+PAX,Patuxent River, MD,Port Of Entry
+PCF,Port Canaveral, FL,Port Of Entry
+PEM,Pembina, ND,Port Of Entry
+PER,Perth Amboy, NJ,Port Of Entry
+PGR,Progreso, TX,Port Of Entry
+PHO,Phoenix, AZ,Port Of Entry
+PHU,Port Huron, M,Port Of Entry
+PIB,Paradise Island, Bahamas,Port Of Entry
+PIN,Pine Creek, MN,Port Of Entry
+PIV,Pinnacle POE, VT,Port Of Entry
+PNG,Port Angeles, WA,Port Of Entry
+POE,Port of El Paso, TX,Port Of Entry
+PON,Ponce, PR,Port Of Entry
+POR,Portal, ND,Port Of Entry
+PRE,Presidio, TX,Port Of Entry
+PSJ,Port St. Joe, FL,Port Of Entry
+PTL,Porthill, ID,Port Of Entry
+PTR,Point Roberts, WA,Port Of Entry
+RAN,Ranier, MN,Port Of Entry
+RBB,"Niagara Falls,  Rainbow Bridge", NY,Port Of Entry
+RCM,Richmond, VA,Port Of Entry
+REN,Reno, NV,Port Of Entry
+RIO,Rio Grande City, TX,Port Of Entry
+ROC,Rochester, NY,Port Of Entry
+ROO,Roosville, MT,Port Of Entry
+ROU,Rouses Point, NY,Port Of Entry
+SAG,Saginaw, MI,Port Of Entry
+SAR,Sarles, ND,Port Of Entry
+SAU,St. Augustine, FL,Port Of Entry
+SBR,South Brewer, ME,Port Of Entry
+SCO,Scobey, MT,Port Of Entry
+SDY,Sandusky, OH,Port Of Entry
+SET,Seattle-Tacoma, WA,Port Of Entry
+SPE,St. Petersburg, FL,Port Of Entry
+SFR,San Francisco, CA,Port Of Entry
+SHR,Sherwood, ND,Port Of Entry
+SKA,Skagway, AK,Port Of Entry
+SLO,San Luis Obispo, CA,Port Of Entry
+SNA,San Antonio, TX,Port Of Entry
+SNJ,San Jose, CA,Port Of Entry
+SPA,St. Pamphile, ME,Port Of Entry
+SPM,St. Paul, MN,Port Of Entry
+SRL,St. Aurelie, ME,Port Of Entry
+SSM,Sault Ste. Marie, MI,Port Of Entry
+STJ,St. John, USVI,Port Of Entry
+STR,Santa Teresa, NM,Port Of Entry
+SUM,Sumas, WA,Port Of Entry
+SYR,Syracuse, NY,Port Of Entry
+TAC,Tacoma, WA,Port Of Entry
+TEC,Tecate, CA,Port Of Entry
+TOL,Toledo, OH,Port Of Entry
+TRL,Trail Creek, MT,Port Of Entry
+TRV,Travis AFB, CA,Port Of Entry
+TUR,Turner, MT,Port Of Entry
+VCB,Vanceboro, ME,Port Of Entry
+VIB,Veterans International Bridge,,Port Of Entry
+VNB,Van Buren, ME,Port Of Entry
+WAR,Warroad, MN,Port Of Entry
+WBE,West Berkshire, VT,Port Of Entry
+WHI,Whitetail, MT,Port Of Entry
+WHO,Westhope, ND,Port Of Entry
+WHT,Whitlash, MT,Port Of Entry
+WIN,Winnipeg, SK. Canada,Port Of Entry
+WRB,Whirlpool Bridge,,Port Of Entry
+WPB,West Palm Beach, FL,Port Of Entry
+YAK,Yakima, WA,Port Of Entry
+YSL,Ysleta, TX,Port Of Entry
+ABG,Alburg, VT,Port Of Entry
+ABS,Alburg Springs, VT,Port Of Entry
+M  ,Algoma, WI,Port Of Entry
+AGA,Agana, Guam,Port Of Entry
+AGU,Mayaguez, PR,Port Of Entry
+ALB,Albany, NY,Port Of Entry
+AMB,Ambrose, ND,Port Of Entry
+ANC,Anchorage, AK,Port Of Entry
+ANP,Antelope Wells, NM,Port Of Entry
+ANZ,Anzaldaus, TX,Port Of Entry
+AST,Astoria, OR,Port Of Entry
+ATL,Atlanta, GA,Port Of Entry
+AUS,Austin, TX,Port Of Entry
+BAL,Baltimore, MD,Port Of Entry
+BAY,Bayfield, WI,Port Of Entry
+BCK,Bucksport, ME,Port Of Entry
+BCM,Battle Creek and Kalamazoo County Airport, MI,Port Of Entry
+BEB,Beebe Plain, VT,Port Of Entry
+BEL,Bellingham, WA,Port Of Entry
+BGM,Bangor, ME,Port Of Entry
+BIL,Billings, MT,Port Of Entry
+BOA,El Paso, TX Bridge of Americas,Port Of Entry
+BOO,Boothbay Harbor, ME,Port Of Entry
+BRG,Burlington, VT,Port Of Entry
+BRU,Brunswick, GA,Port Of Entry
+BTN,Baton Rouge, LA,Port Of Entry
+BWA,Boundary, WA,Port Of Entry
+CAL,Calexico, CA,Port Of Entry
+CAP,Cape Vincent, NY,Port Of Entry
+CBH,Churubusco, IN,Port Of Entry
+CHI,Chicago, IL,Port Of Entry
+CHM,Champlain, NY,Port Of Entry
+CHT,Chateaugay, NY,Port Of Entry
+CLA,Clayton, NY,Port Of Entry
+CLG,Calgary, Alberta Canada,Port Of Entry
+CLT,Charlotte, NC,Port Of Entry
+CNC,Cannon Corners, NY,Port Of Entry
+COB,Coburn Gore, ME,Port Of Entry
+COO,Coos Bay, OR,Port Of Entry
+COW,HQ, Washington DC,Port Of Entry
+CRB,Caribou, ME,Port Of Entry
+CSP,Casper, WY,Port Of Entry
+CUT,Cut Bank, MT,Port Of Entry
+DAC,Dalton Cache, AK,Port Of Entry
+DCA,Detroit, MI,Port Of Entry
+DCT,Detroit, Windsor Tunnel,Port Of Entry
+DER,Del Rio, TX,Port Of Entry
+DIB,Detroit, MI,Port Of Entry
+DLR,Del Rio, TX,Port Of Entry
+DNA,Donna, TX,Port Of Entry
+DOU,Douglas, AZ,Port Of Entry
+DUL,Duluth, MN,Port Of Entry
+DVL,Danville, WA,Port Of Entry
+EDN,South Texas, IAP at Edinburg,Port Of Entry
+ELP,El Paso, TX,Port Of Entry
+ENS,Ensenada, PR,Port Of Entry
+EPM,Eastport, ME,Port Of Entry
+ERI,Erie, PA,Port Of Entry
+FAB,Fabens, TX,Port Of Entry
+FAL,Falcon Dam, TX,Port Of Entry
+FBA,Freeport, Bahamas,Port Of Entry
+FER,Ferry, WA,Port Of Entry
+FPT,Freeport, TX,Port Of Entry
+FRE,Fresno, CA,Port Of Entry
+FRK,"Frederiksted,  St. Croix", VI,Port Of Entry
+FRT,Fortuna, ND,Port Of Entry
+FTF,Fort Fairfield, ME,Port Of Entry
+FTK,Fort Kent, ME,Port Of Entry
+FTP,Fort Pierce, FL,Port Of Entry
+FWA,Frontier, WA,Port Of Entry
+GAR,Gary, IN,Port Of Entry
+GGW,Glasgow, MT,Port Of Entry
+GLP,Gulfport, MS,Port Of Entry
+GRB,Green Bay, WI,Port Of Entry
+GRF,Grand Forks, ND,Port Of Entry
+GRP,Grand Rapids, MI Kent County Intl Airport,Port Of Entry
+GRT,Groton, CT,Port Of Entry
+GTW,Brownsville, Gateway Bridge,Port Of Entry
+HAI,Haines, AK,Port Of Entry
+HAM,Hamilton, Bermuda,Port Of Entry
+HEL,Helena, MT,Port Of Entry
+HID,Hidalgo, TX,Port Of Entry
+HLG,Harlingen, TX,Port Of Entry
+HMM,Hammond, IN,Port Of Entry
+HNS,Hansboro, ND,Port Of Entry
+HOM,Homer, AK,Port Of Entry
+HOU,Houston, TX,Port Of Entry
+HTM,Houlton, ME,Port Of Entry
+HVR,Wild Horse, MT,Port Of Entry
+IND,Los Indios,,Port Of Entry
+INT,International Falls, MN,Port Of Entry
+ISL,Isle Royale, MI,Port Of Entry
+JAC,Jacksonville, FL,Port Of Entry
+JKM,Jackman, ME,Port Of Entry
+JUN,Juneau, AK,Port Of Entry
+KAN,Kansas City, MO,Port Of Entry
+KEY,Key West, FL,Port Of Entry
+KOA,Kona, HI,Port Of Entry
+LAR,Laredo, TX Juarez-Lincoln Bridge,Port Of Entry
+LCB,Laredo, Columbia Bridge,Port Of Entry
+LEW,Lewiston, NY,Port Of Entry
+LKC,Lake Charles, LA,Port Of Entry
+LNB,Long Beach, CA,Port Of Entry
+LON,Longview, WA,Port Of Entry
+LOS,Los Angeles, CA,Port Of Entry
+LSE,Los Ebanos, TX,Port Of Entry
+LUK,Lukeville, AZ,Port Of Entry
+LWT,Laredo, World Trade Bridge,Port Of Entry
+MAA,Abu Dhabi INTL,,Port Of Entry
+MAG,McGuire AFB, NJ,Port Of Entry
+MAP,Mariposa, AZ,Port Of Entry
+MAY,Mayaguez, PR,Port Of Entry
+MEM,Memphis, TN,Port Of Entry
+MGC,Morgan City, LA,Port Of Entry
+MIA,Miami, FL,Port Of Entry
+MND,Minot, ND (Int'l Airport),Port Of Entry
+MOB,Mobile, AL,Port Of Entry
+MOO,Mooers, NY,Port Of Entry
+MRC,Marine City, MI,Port Of Entry
+MRR,Morristown, NY,Port Of Entry
+MSP,Minneapolis/St. Paul (Int'l Airport),,Port Of Entry
+MYR,Myrtle Beach, SC,Port Of Entry
+NAS,Nassau, Bahamas,Port Of Entry
+NEC,Neche, ND,Port Of Entry
+NIA,Niagara Falls, NY,Port Of Entry
+NIK,Nikiski, AK,Port Of Entry
+NOL,New Orleans, LA,Port Of Entry
+NOO,Noonan, ND,Port Of Entry
+NOY,Noyes, MN,Port Of Entry
+NRG,Northgate, ND,Port Of Entry
+NRT,North Troy, VT,Port Of Entry
+NWH,New Haven, CT,Port Of Entry
+NWN,Newport News, VA,Port Of Entry
+NPW,Northport, WA,Port Of Entry
+OGD,Ogdensburg, NY,Port Of Entry
+OLY,Olympia, WA,Port Of Entry
+OPH,Opheim, MT,Port Of Entry
+ORO,Oroville, WA,Port Of Entry
+OTM,Otay Mesa POE, CA,Port Of Entry
+PAN,Panama City, FL,Port Of Entry
+PAS,Pascagoula, MS,Port Of Entry
+PBB,Peace Bridge, NY,Port Of Entry
+PDN, El Paso, TX,Port Of Entry
+PEN,Pensacola, FL,Port Of Entry
+PEV,Port Everglades, FL,Port Of Entry
+PHI,Philadelphia, PA,Port Of Entry
+PHR,Pharr, TX,Port Of Entry
+PHY,Pacific Highway POE, WA,Port Of Entry
+PIE,Piegan, MT,Port Of Entry
+PIT,Pittsburgh, PA,Port Of Entry
+PKC,Poker Creek, AK,Port Of Entry
+PNH,Pittsburg, NH,Port Of Entry
+POM,Portland, ME,Port Of Entry
+POO,Portland, OR,Port Of Entry
+PRC,Prince Rupert BC Canada,,Port Of Entry
+PRO,Providence, RI,Port Of Entry
+PSM,Portsmouth, NH,Port Of Entry
+PTO,Port Townsend, WA,Port Of Entry
+PUT,Put-in-Bay, OH,Port Of Entry
+RAY,Raymond, MT,Port Of Entry
+RBT,Roberts Landing, MI,Port Of Entry
+RDU,Raleigh-Durham, NC,Port Of Entry
+RIF,Richford, VT,Port Of Entry
+RIT,Rome, Italy,Port Of Entry
+ROM,Roma, TX,Port Of Entry
+ROS,Roseau, MN,Port Of Entry
+SAC,Sacramento, CA,Port Of Entry
+SAJ,San Juan, PR,Port Of Entry
+SAS,Sasabe, AZ,Port Of Entry
+SAV,Savannah, GA,Port Of Entry
+SCL,St. Clair, MI,Port Of Entry
+SDP,San Diego Intl. Airport, CA,Port Of Entry
+SEA,Seattle, WA,Port Of Entry
+SFB,Sanford, FL,Port Of Entry
+SPN,Saipan,,Port Of Entry
+SHA,Shannon, Ireland,Port Of Entry
+SJO,St. John, ND,Port Of Entry
+SLC,Salt Lake City, UT,Port Of Entry
+SLU,San Luis, AZ,Port Of Entry
+SND,San Diego, CA,Port Of Entry
+SNN,Shannon, Ireland,Port Of Entry
+SPC,San Pedro, CA,Port Of Entry
+SPO,Spokane, WA,Port Of Entry
+SSB,Sanford, Fl,Port Of Entry
+STA,St. Albans, VT,Port Of Entry
+STL,St. Louis, MO,Port Of Entry
+STZ,St. Zacharie, ME,Port Of Entry
+SWE,Sweetgrass, MT,Port Of Entry
+SYS,San Ysidro, CA,Port Of Entry
+TAM,Tampa, FL,Port Of Entry
+THO,Thousand Islands Bridge, NY,Port Of Entry
+TOR,Toronto, Ontario Canada,Port Of Entry
+TRO,Trout River, NY,Port Of Entry
+TUC,Tucson, AZ,Port Of Entry
+VAN,Vancouver, WA,Port Of Entry
+VCV,Vancouver, BC Canada,Port Of Entry
+VIC,Victoria, BC,Port Of Entry
+WAL,Walhalla, ND,Port Of Entry
+WAS,Washington, DC,Port Of Entry
+WCM,Willow Creek, MT,Port Of Entry
+WHM,Wildhorse, MT,Port Of Entry
+WHR,Whirlpool Bridge,,Port Of Entry
+WIL,Wilmington, NC,Port Of Entry
+WLL,Wilmington, DE,Port Of Entry
+WND,Williston, ND (Int'l Airport),Port Of Entry
+WRA,Wrangell, AK,Port Of Entry
+YOU,Youngstown, NY,Port Of Entry
+YUI,Yuma, AZ,Port Of Entry
+0AK,Pilot Station,AK,Airport
+16A,Nunapitchuk,AK,Airport
+1G4,Peach Springs,AZ,Airport
+2A3,Larsen Bay,AK,Airport
+2A9,Kotlik,AK,Airport
+3A5,Marshall,AK,Airport
+3T7,Middle Bass,OH,Airport
+3W2,Put - in - Bay,OH,Airport
+6R7,Old Harbor,AK,Airport
+74S,Anacortes,WA,Airport
+A61,Tuntutuliak,AK,Airport
+A85,Kwigillingok,AK,Airport
+ABI,Abilene,TX,Airport
+ABR,Aberdeen,SD,Airport
+ABY,Albany,GA,Airport
+ACB,Bellaire,MI,Airport
+ACK,Nantucket,MA,Airport
+ACT,Waco,TX,Airport
+ACV,Arcata/Eureka,CA,Airport
+ACY,Egg Harbor Township,NJ,Airport
+ADK,Adak Island,AK,Airport
+ADQ,Kodiak,AK,Airport
+AEX,Alexandria,LA,Airport
+AFM,Ambler,AK,Airport
+AGC,Pittsburgh,PA,Airport
+AGS,Augusta,GA,Airport
+AHN,Athens,GA,Airport
+AIA,Alliance,NE,Airport
+AID,Anderson,IN,Airport
+AIY,Atlantic City,NJ,Airport
+AIZ,Kaiser Lake Ozark,MO,Airport
+AKN,King Salmon,AK,Airport
+AKP,Anaktuvuk Pass,AK,Airport
+AKW,Klawock,AK,Airport
+ALM,Alamogordo,NM,Airport
+ALN,Alton/St Louis,IL,Airport
+ALO,Waterloo,IA,Airport
+ALS,Alamosa,CO,Airport
+ALW,Walla Walla,WA,Airport
+AMA,Amarillo,TX,Airport
+ANB,Anniston,AL,Airport
+ANI,Aniak,AK,Airport
+AOO,Altoona,PA,Airport
+APF,Naples,FL,Airport
+APN,Alpena,MI,Airport
+AQH,Quinhagak,AK,Airport
+AQT,Nuiqsut,AK,Airport
+ART,Watertown,NY,Airport
+ASE,Aspen,CO,Airport
+ASN,Talladega,AL,Airport
+ATK,Atqasuk,AK,Airport
+ATY,Watertown,SD,Airport
+AUG,Augusta,ME,Airport
+AUK,Alakanuk,AK,Airport
+AVL,Asheville,NC,Airport
+AVP,Avoca,PA,Airport
+AWI,Wainwright,AK,Airport
+AXN,Alexandria,MN,Airport
+AZO,Kalamazoo,MI,Airport
+BAF,Westfield/Springfield,MA,Airport
+BAK,Columbus,IN,Airport
+BCE,Bryce Canyon,UT,Airport
+BDE,Baudette,MN,Airport
+BDL,Windsor Locks,CT,Airport
+BDR,Bridgeport,CT,Airport
+BED,Bedford,MA,Airport
+BEH,Benton Harbor,MI,Airport
+BET,Bethel,AK,Airport
+BFD,Bradford,PA,Airport
+BFF,Scottsbluff,NE,Airport
+BFI,Seattle,WA,Airport
+BFL,Bakersfield,CA,Airport
+BGR,Bangor,ME,Airport
+BHB,Bar Harbor,ME,Airport
+BID,Block Island,RI,Airport
+BIG,Delta Junction Ft Greely,AK,Airport
+BIS,Bismarck,ND,Airport
+BJI,Bemidji,MN,Airport
+BKL,Cleveland,OH,Airport
+BKW,Beckley,WV,Airport
+BKX,Brookings,SD,Airport
+BLI,Bellingham,WA,Airport
+BLM,Belmar/Farmingdale,NJ,Airport
+BLV,Belleville,IL,Airport
+BMG,Bloomington,IN,Airport
+BMI,Bloomington,IL,Airport
+BNA,Nashville,TN,Airport
+BOI,Boise,ID,Airport
+BPK,Mountain Home,AR,Airport
+BPT,Beaumont / Port Arthur,TX,Airport
+BQK,Brunswick,GA,Airport
+BQN,Aguadilla,PR,Airport
+BRD,Brainerd,MN,Airport
+BRL,Burlington,IA,Airport
+BRW,Barrow,AK,Airport
+BTI,Kaktovik,AK,Airport
+BTL,Battle Creek,MI,Airport
+BTR,Baton Rouge,LA,Airport
+BTV,South Burlington,VT,Airport
+BUR,Burbank,CA,Airport
+BVK,Buckland,AK,Airport
+BWG,Bowling Green,KY,Airport
+BWI,BWI Airport,MD,Airport
+BZN,Bozeman,MT,Airport
+CAE,Columbia,SC,Airport
+CAK,North Canton,OH,Airport
+CCR,Concord,CA,Airport
+CDB,Cold Bay,AK,Airport
+CDC,Cedar City,UT,Airport
+CDV,Cordova,AK,Airport
+CDW,Caldwell,NJ,Airport
+CEC,Crescent City,CA,Airport
+CEF,Springfield/Chicopee,MA,Airport
+CEZ,Cortez,CO,Airport
+CFK,Chefornak,AK,Airport
+CGA,Craig,AK,Airport
+CGF,Cleveland,OH,Airport
+CGI,Cape Girardeau,MO,Airport
+CGX,Chicago,IL,Airport
+CHO,Charlottesville,VA,Airport
+CHS,Charleston,SC,Airport
+CIC,Chico,CA,Airport
+CID,Cedar Rapids,IA,Airport
+CIU,Sault Ste Marie,MI,Airport
+CKB,Clarksburg,WV,Airport
+CLL,College Station,TX,Airport
+CLM,Port Angeles,WA,Airport
+CMH,Columbus,OH,Airport
+CMI,Champaign,IL,Airport
+CMX,Hancock,MI,Airport
+CNM,Carlsbad,NM,Airport
+CNY,Moab,UT,Airport
+COD,Cody,WY,Airport
+COE,Coeur D'alene,ID,Airport
+COS,Colorado Springs,CO,Airport
+COU,Columbia,MO,Airport
+CPR,Casper,WY,Airport
+CPX,Isla De Culebra,PR,Airport
+CRP,Corpus Christi,TX,Airport
+CRQ,Carlsbad,CA,Airport
+CRW,Charleston,WV,Airport
+CSG,Columbus,GA,Airport
+CVG,Cincinnati,OH,Airport
+CVO,Corvallis,OR,Airport
+CVX,Charlevoix,MI,Airport
+CWA,Mosinee,WI,Airport
+CWI,Clinton,IA,Airport
+CYS,Cheyenne,WY,Airport
+D76,Noorvik,AK,Airport
+DAB,Daytona Beach,FL,Airport
+DAN,Danville,VA,Airport
+DAY,Dayton,OH,Airport
+DBQ,Dubuque,IA,Airport
+DDC,Dodge City,KS,Airport
+DDH,Bennington,VT,Airport
+DEC,Decatur,IL,Airport
+DFW,Dallas,TX,Airport
+DHN,Dothan,AL,Airport
+DIK,Dickinson,ND,Airport
+DLG,Dillingham,AK,Airport
+DLH,Duluth,MN,Airport
+DNV,Danville,IL,Airport
+DRO,Durango,CO,Airport
+DRT,Del Rio,TX,Airport
+DTW,Detroit,MI,Airport
+DUJ,Du Bois,PA,Airport
+DUT,Unalaska,AK,Airport
+DUY,Kongiganak,AK,Airport
+DVT,Phoenix,AZ,Airport
+DXR,Danbury,CT,Airport
+EAR,Kearney,NE,Airport
+EAT,Wenatchee,WA,Airport
+EAU,Eau Claire,WI,Airport
+EEK,Eek,AK,Airport
+EEN,Keene,NH,Airport
+EFD,Houston,TX,Airport
+EFK,Newport,VT,Airport
+EGE,Eagle,CO,Airport
+EKM,Elkhart,IN,Airport
+EKO,Elko,NV,Airport
+ELI,Elim,AK,Airport
+ELM,Elmira / Corning,NY,Airport
+ELO,Ely,MN,Airport
+ENA,Kenai,AK,Airport
+ENM,Emmonak,AK,Airport
+ENW,Kenosha,WI,Airport
+ESC,Escanaba,MI,Airport
+ESF,Alexandria,LA,Airport
+EUG,Eugene,OR,Airport
+EVV,Evansville,IN,Airport
+EWB,New Bedford,MA,Airport
+EWN,New Bern,NC,Airport
+EWR,Newark,NJ,Airport
+EWU,Newtok,AK,Airport
+EYW,Key West,FL,Airport
+FAI,Fairbanks,AK,Airport
+FAQ,Fitiuta,AS,Airport
+FAT,Fresno,CA,Airport
+FAY,Fayetteville,NC,Airport
+FHR,Friday Harbor,WA,Airport
+FHU,Fort Huachuca / Sierra Vista,AZ,Airport
+FKL,Franklin,PA,Airport
+FLG,Flagstaff,AZ,Airport
+FLL,Fort Lauderdale,FL,Airport
+FLO,Florence,SC,Airport
+FMN,Farmington,NM,Airport
+FNL,Fort Collins / Loveland,CO,Airport
+FNT,Flint,MI,Airport
+FOD,Fort Dodge,IA,Airport
+FOE,Topeka,KS,Airport
+FRG,Farmingdale,NY,Airport
+FRM,Fairmont,MN,Airport
+FSD,Sioux Falls,SD,Airport
+FSM,Fort Smith,AR,Airport
+FTW,Fort Worth,TX,Airport
+FYU,Fort Yukon,AK,Airport
+FYV,Fayetteville,AR,Airport
+GAM,Gambell,AK,Airport
+GBD,Great Bend,KS,Airport
+GBH,Galbraith Lake,AK,Airport
+GCC,Gillette,WY,Airport
+GCK,Garden City,KS,Airport
+GCN,Grand Canyon,AZ,Airport
+GED,Georgetown,DE,Airport
+GEG,Spokane,WA,Airport
+GFK,Grand Forks,ND,Airport
+GFL,Glens Falls,NY,Airport
+GGG,Longview,TX,Airport
+GGV,Kwigillingok,AK,Airport
+GJT,Grand Junction,CO,Airport
+GKN,Gulkana,AK,Airport
+GLD,Goodland,KS,Airport
+GLH,Greenville,MS,Airport
+GLR,Gaylord,MI,Airport
+GLS,Galveston,TX,Airport
+GNV,Gainesville,FL,Airport
+GON,Groton (New London),CT,Airport
+GPI,Kalispell,MT,Airport
+GPT,Gulfport,MS,Airport
+GPZ,Grand Rapids,MN,Airport
+GRI,Grand Island,NE,Airport
+GRK,Fort Hood / Killeen,TX,Airport
+GSO,Greensboro,NC,Airport
+GSP,Greenville,SC,Airport
+GST,Gustavus,AK,Airport
+GTF,Great Falls,MT,Airport
+GTR,Columbus,MS,Airport
+GUC,Gunnison,CO,Airport
+GUM,Agana,GU,Airport
+GUP,Gallup,NM,Airport
+GYH,Greenville,SC,Airport
+GYR,Goodyear,AZ,Airport
+GYY,Gary,IN,Airport
+HDN,Hayden,CO,Airport
+HFD,Hartford,CT,Airport
+HGR,Hagerstown,MD,Airport
+HIB,Hibbing,MN,Airport
+HII,Lake Havasu City,AZ,Airport
+HKS,Jackson,MS,Airport
+HKY,Hickory,NC,Airport
+HLA,Huslia,AK,Airport
+HLN,Helena,MT,Airport
+HND,Las Vegas,NV,Airport
+HNH,Hoonah,AK,Airport
+HNL,Honolulu,HI,Airport
+HNM,Hana,HI,Airport
+HON,Huron,SD,Airport
+HOT,Hot Springs,AR,Airport
+HPB,Hooper Bay,AK,Airport
+HPN,White Plains,NY,Airport
+HRL,Harlingen,TX,Airport
+HRO,Harrison,AR,Airport
+HSL,Huslia,AK,Airport
+HSV,Huntsville,AL,Airport
+HTS,Huntington,WV,Airport
+HUF,Terre Haute,IN,Airport
+HUT,Hutchinson,KS,Airport
+HVN,New Haven,CT,Airport
+HXD,Hilton Head Island,SC,Airport
+HYA,Hyannis,MA,Airport
+HYL,Hollis,AK,Airport
+HYS,Hays,KS,Airport
+IAD,Washington,DC,Airport
+IAH,Houston,TX,Airport
+IAN,Kiana,AK,Airport
+ICT,Wichita,KS,Airport
+IDA,Idaho Falls,ID,Airport
+IFP,Bullhead City,AZ,Airport
+IGM,Kingman,AZ,Airport
+IIK,Kipnuk,AK,Airport
+ILE,Killeen,TX,Airport
+ILG,Wilmington,DE,Airport
+ILI,Iliamna,AK,Airport
+ILL,Willmar,MN,Airport
+ILM,Wilmington,NC,Airport
+IMT,Iron Mountain / Kingsford,MI,Airport
+INL,International Falls,MN,Airport
+IPL,Imperial,CA,Airport
+IPT,Williamsport,PA,Airport
+IRK,Kirksville,MO,Airport
+ISN,Williston,ND,Airport
+ISO,Kinston,NC,Airport
+ISP,Islip,NY,Airport
+ITH,Ithaca,NY,Airport
+ITO,Hilo,HI,Airport
+IWA,Mesa,AZ,Airport
+IWD,Ironwood,MI,Airport
+IXD,Olathe,KS,Airport
+IYK,Inyokern,CA,Airport
+JAN,Jackson,MS,Airport
+JAX,Jacksonville,FL,Airport
+JBR,Jonesboro,AR,Airport
+JEF,Jefferson City,MO,Airport
+JFK,New York,NY,Airport
+JHW,Jamestown,NY,Airport
+JLN,Joplin,MO,Airport
+JMS,Jamestown,ND,Airport
+JNU,Juneau,AK,Airport
+JRB,New York,NY,Airport
+JST,Johnstown,PA,Airport
+JVL,Janesville,WI,Airport
+JXN,Jackson,MI,Airport
+KAE,Kake,AK,Airport
+KDK,Kodiak,AK,Airport
+KEB,English Bay,AK,Airport
+KKA,Koyuk,AK,Airport
+KLG,Kalskag,AK,Airport
+KSM,St Mary's,AK,Airport
+KTB,Thorne Bay,AK,Airport
+KTN,Ketchikan,AK,Airport
+KVC,King Cove,AK,Airport
+KVL,Kivalina,AK,Airport
+KWT,Kwethluk,AK,Airport
+LAA,Lamar,CO,Airport
+LAF,Lafayette,IN,Airport
+LAL,Lakeland,FL,Airport
+LAS,Las Vegas,NV,Airport
+LAW,Lawton,OK,Airport
+LAX,Los Angeles,CA,Airport
+LBB,Lubbock,TX,Airport
+LBE,Latrobe,PA,Airport
+LBF,North Platte,NE,Airport
+LBL,Liberal,KS,Airport
+LBX,Angleton/Lake Jackson,TX,Airport
+LCH,Lake Charles,LA,Airport
+LCK,Columbus,OH,Airport
+LEX,Lexington,KY,Airport
+LFT,Lafayette,LA,Airport
+LGA,New York,NY,Airport
+LGB,Long Beach,CA,Airport
+LHD,Anchorage,AK,Airport
+LIH,Lihue,HI,Airport
+LIT,Little Rock,AR,Airport
+LMT,Klamath Falls,OR,Airport
+LNK,Lincoln,NE,Airport
+LNS,Lancaster,PA,Airport
+LNY,Lanai City,HI,Airport
+LPR,Lorain/Elyria,OH,Airport
+LRD,Laredo,TX,Airport
+LRU,Las Cruces,NM,Airport
+LWB,Lewisburg,WV,Airport
+LWS,Lewiston,ID,Airport
+LYH,Lynchburg,VA,Airport
+MAF,Midland,TX,Airport
+MAZ,Mayaguez,PR,Airport
+MBA,Manokotak,AK,Airport
+MBL,Manistee,MI,Airport
+MBS,Saginaw,MI,Airport
+MCC,Sacramento,CA,Airport
+MCE,Merced,CA,Airport
+MCG,McGrath,AK,Airport
+MCK,Mc Cook,NE,Airport
+MCN,Macon,GA,Airport
+MCO,Orlando,FL,Airport
+MCW,Mason City,IA,Airport
+MDH,Carbondale / Murphysboro,IL,Airport
+MDM,Marshall,AK,Airport
+MDT,Harrisburg,PA,Airport
+MDW,Chicago,IL,Airport
+MDY,Sand Island,MQ,Airport
+MEI,Meridian,MS,Airport
+MFD,Mansfield,OH,Airport
+MFE,Mcallen,TX,Airport
+MFR,Medford,OR,Airport
+MGW,Morgantown,WV,Airport
+MHE,Mitchell,SD,Airport
+MHK,Manhattan,KS,Airport
+MHT,Manchester,NH,Airport
+MIE,Muncie,IN,Airport
+MIV,Millville,NJ,Airport
+MJX,Toms River,NJ,Airport
+MKC,Kansas City,MO,Airport
+MKE,Milwaukee,WI,Airport
+MKG,Muskegon,MI,Airport
+MKK,Kaunakakai,HI,Airport
+MKL,Jackson,TN,Airport
+MKT,Mankato,MN,Airport
+MLB,Melbourne,FL,Airport
+MLI,Moline,IL,Airport
+MLL,Marshall,AK,Airport
+MLU,Monroe,LA,Airport
+MMH,Mammoth Lakes,CA,Airport
+MMU,Morristown,NJ,Airport
+MMV,Mc Minnville,OR,Airport
+MNM,Menominee,MI,Airport
+MOD,Modesto,CA,Airport
+MOT,Minot,ND,Airport
+MOU,Mountain Village,AK,Airport
+MPV,Barre/Montpelier,VT,Airport
+MQI,Manteo,NC,Airport
+MQJ,Indianapolis,IN,Airport
+MQY,Smyrna,TN,Airport
+MRI,Anchorage,AK,Airport
+MSL,Muscle Shoals,AL,Airport
+MSN,Madison,WI,Airport
+MSO,Missoula,MT,Airport
+MSS,Massena,NY,Airport
+MSV,Monticello,NY,Airport
+MSY,New Orleans,LA,Airport
+MTJ,Montrose,CO,Airport
+MTM,Metlakatla,AK,Airport
+MTO,Mattoon/Charleston,IL,Airport
+MUE,Kamuela,HI,Airport
+MVL,Morrisville,VT,Airport
+MVN,Mount Vernon,IL,Airport
+MVY,Vineyard Haven,MA,Airport
+MWA,Marion,IL,Airport
+MWH,Moses Lake,WA,Airport
+MZJ,Marana,AZ,Airport
+N93,Golovin,AK,Airport
+NQA,Millington,TN,Airport
+NUL,Nulato,AK,Airport
+OAJ,Jacksonville,NC,Airport
+OCF,Ocala,FL,Airport
+OFK,Norfolk,NE,Airport
+OGG,Kahului,HI,Airport
+OGS,Ogdensburg,NY,Airport
+OLM,Olympia,WA,Airport
+OME,Nome,AK,Airport
+ONP,Newport,OR,Airport
+ONT,Ontario,CA,Airport
+OOK,Toksook Bay,AK,Airport
+OQU,North Kingstown,RI,Airport
+ORD,Chicago,IL,Airport
+ORF,Norfolk,VA,Airport
+ORH,Worcester,MA,Airport
+ORI,Port Lions,AK,Airport
+ORS,Eastsound,WA,Airport
+ORV,Noorvik,AK,Airport
+OSH,Oshkosh,WI,Airport
+OSU,Columbus,OH,Airport
+OTG,Worthington,MN,Airport
+OTH,North Bend,OR,Airport
+OTZ,Kotzebue,AK,Airport
+OWB,Owensboro,KY,Airport
+OXC,Oxford,CT,Airport
+OXR,Oxnard,CA,Airport
+PAE,Everett,WA,Airport
+PAH,Paducah,KY,Airport
+PBI,West Palm Beach,FL,Airport
+PCW,Port Clinton,OH,Airport
+PDT,Pendleton,OR,Airport
+PDX,Portland,OR,Airport
+PFN,Panama City,FL,Airport
+PGA,Page,AZ,Airport
+PGD,Punta Gorda,FL,Airport
+PGM,Port Graham,AK,Airport
+PGV,Greenville,NC,Airport
+PHF,Newport News,VA,Airport
+PHL,Philadelphia,PA,Airport
+PHX,Phoenix,AZ,Airport
+PIA,Peoria,IL,Airport
+PIH,Pocatello,ID,Airport
+PIR,Pierre,SD,Airport
+PKB,Parkersburg,WV,Airport
+PLB,Plattsburgh,NY,Airport
+PLK,Point Lookout,MO,Airport
+PLN,Pellston,MI,Airport
+PMD,Palmdale,CA,Airport
+PNC,Ponca City,OK,Airport
+PNS,Pensacola,FL,Airport
+POU,Poughkeepsie,NY,Airport
+PPC,Prospect Creek,AK,Airport
+PPG,Pago Pago,AS,Airport
+PQI,Presque Isle,ME,Airport
+PQL,Pascagoula,MS,Airport
+PRB,Paso Robles,CA,Airport
+PSC,Pasco,WA,Airport
+PSE,Ponce,PR,Airport
+PSG,Petersburg,AK,Airport
+PSP,Palm Springs,CA,Airport
+PTH,Port Heiden,AK,Airport
+PTK,Pontiac,MI,Airport
+PUB,Pueblo,CO,Airport
+PUW,"Pullman / Moscow, ID",WA,Airport
+PVC,Provincetown,MA,Airport
+PVD,Providence,RI,Airport
+PVU,Provo,UT,Airport
+PWM,Portland,ME,Airport
+PWT,Bremerton,WA,Airport
+RAP,Rapid City,SD,Airport
+RDD,Redding,CA,Airport
+RDG,Reading,PA,Airport
+RDM,Redmond,OR,Airport
+RFD,Rockford,IL,Airport
+RHI,Rhinelander,WI,Airport
+RIC,Richmond,VA,Airport
+RIW,Riverton,WY,Airport
+RKD,Rockland,ME,Airport
+RKS,Rock Springs,WY,Airport
+RME,Rome,NY,Airport
+RMG,Rome,GA,Airport
+RNO,Reno,NV,Airport
+ROA,Roanoke,VA,Airport
+ROW,Roswell,NM,Airport
+RSH,Russian Mission,AK,Airport
+RST,Rochester,MN,Airport
+RSW,Fort Myers,FL,Airport
+RUT,Rutland,VT,Airport
+RWI,Rocky Mount,NC,Airport
+SAF,Santa Fe,NM,Airport
+SAN,San Diego,CA,Airport
+SAT,San Antonio,TX,Airport
+SAW,Marquette,MI,Airport
+SBA,Santa Barbara,CA,Airport
+SBD,San Bernardino,CA,Airport
+SBN,South Bend,IN,Airport
+SBP,San Luis Obispo,CA,Airport
+SBY,Salisbury,MD,Airport
+SCC,Deadhorse,AK,Airport
+SCK,Stockton,CA,Airport
+SCM,Scammon Bay,AK,Airport
+SDF,Louisville,KY,Airport
+SFO,San Francisco,CA,Airport
+SFZ,Pawtucket,RI,Airport
+SGF,Springfield,MO,Airport
+SGH,Springfield,OH,Airport
+SGJ,St Augustine,FL,Airport
+SGU,St George,UT,Airport
+SGY,Skagway,AK,Airport
+SHD,Harrisonburg,VA,Airport
+SHG,Shungnak,AK,Airport
+SHH,Shishmaref,AK,Airport
+SHV,Shreveport,LA,Airport
+SIG,San Juan,PR,Airport
+SIT,Sitka,AK,Airport
+SJC,San Jose,CA,Airport
+SJT,San Angelo,TX,Airport
+SJU,San Juan,PR,Airport
+SKX,Taos,NM,Airport
+SLE,Salem,OR,Airport
+SLK,Saranac Lake,NY,Airport
+SLN,Salina,KS,Airport
+SMF,Sacramento,CA,Airport
+SMX,Santa Maria,CA,Airport
+SNP,St Paul Island,AK,Airport
+SOP,Pinehurst/Southern Pines,NC,Airport
+SOV,Seldovia,AK,Airport
+SOW,Show Low,AZ,Airport
+SPI,Springfield,IL,Airport
+SPS,Wichita Falls,TX,Airport
+SQI,Sterling/Rockfalls,IL,Airport
+SRQ,Sarasota,FL,Airport
+SRR,Ruidoso,NM,Airport
+STC,St Cloud,MN,Airport
+STP,St Paul,MN,Airport
+STS,Santa Rosa,CA,Airport
+STT,Charlotte Amalie,VI,Airport
+STX,Christiansted,VI,Airport
+SUN,Hailey,ID,Airport
+SUS,St Louis,MO,Airport
+SUX,Sioux City,IA,Airport
+SVA,Savoonga,AK,Airport
+SVC,Silver City,NM,Airport
+SWF,Newburgh,NY,Airport
+SWO,Stillwater,OK,Airport
+T44,Kodiak,AK,Airport
+TAL,Tanana,AK,Airport
+TBN,Fort Leonard Wood,MO,Airport
+TCL,Tuscaloosa,AL,Airport
+TEB,Teterboro,NJ,Airport
+TEX,Telluride,CO,Airport
+TIX,Titusville,FL,Airport
+TLH,Tallahassee,FL,Airport
+TLT,Tuluksak,AK,Airport
+TNI,Tinian Island,CQ,Airport
+TOG,Togiak Village,AK,Airport
+TPA,Tampa,FL,Airport
+TPL,Temple,TX,Airport
+TRI,Blountville,TN,Airport
+TTN,Trenton,NJ,Airport
+TUL,Tulsa,OK,Airport
+TUP,Tupelo,MS,Airport
+TUS,Tucson,AZ,Airport
+TVC,Traverse City,MI,Airport
+TVF,Thief River Falls,MN,Airport
+TVL,South Lake Tahoe,CA,Airport
+TVR,"Tallulah/Vicksburg, Mississippi",LA,Airport
+TWF,Twin Falls,ID,Airport
+TXK,Texarkana,AR,Airport
+TYR,Tyler,TX,Airport
+TYS,Knoxville,TN,Airport
+UCA,Utica,NY,Airport
+UIN,Quincy,IL,Airport
+UNK,Unalakleet,AK,Airport
+UNV,State College,PA,Airport
+UOX,Oxford,MS,Airport
+UUU,Newport,RI,Airport
+VAK,Chevak,AK,Airport
+VCT,Victoria,TX,Airport
+VDZ,Valdez,AK,Airport
+VGT,Las Vegas,NV,Airport
+VIS,Visalia,CA,Airport
+VLD,Valdosta,GA,Airport
+VPS,Valparaiso,FL,Airport
+VPZ,Valparaiso,IN,Airport
+VQQ,Jacksonville,FL,Airport
+VQS,Isla De Vieques,PR,Airport
+VRB,Vero Beach,FL,Airport
+WBB,Stebbins,AK,Airport
+WDG,Enid,OK,Airport
+WLK,Selawik,AK,Airport
+WNA,Napakiak,AK,Airport
+WRG,Wrangell,AK,Airport
+WRL,Worland,WY,Airport
+WST,Westerly,RI,Airport
+WTK,Noatak,AK,Airport
+WWD,Wildwood,NJ,Airport
+WYS,West Yellowstone,MT,Airport
+X44,Miami,FL,Airport
+X95,Fajardo,PR,Airport
+XNA,Fayetteville / Springdale,AR,Airport
+YKM,Yakima,WA,Airport
+YKN,Yankton,SD,Airport
+YNG,Youngstown,OH,Airport
+YUM,Yuma,AZ,Airport
+Z08,Ofu Village,AS,Airport
+Z09,Kasigluk,AK,Airport
