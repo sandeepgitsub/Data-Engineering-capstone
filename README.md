@@ -21,7 +21,7 @@ In this project, create a data lake  and ETL pipeline for this analysis. Do data
 
 - Create AWS account
 - using cloudformation , create a Ec2 stack with airflow (use airflow.yaml)
-    Refer steps mentioned in(https://aws.amazon.com/blogs/big-data/build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy/)
+    Refer steps mentioned in [here](https://aws.amazon.com/blogs/big-data/build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy/)
  
 ## Project Steps
 1. Move the data in to S3 bucket( Use files_to_S3.py script using conf.cfg which also creates the bucket udacity-immigration-project)
@@ -81,55 +81,55 @@ Below are the tables defined
 
 1. Fact Table
 
- A. immigration_fact - i94 records represent only air travel
-   a. Data Dictionary
-       - Country_of_residency_code, city, state, visa_type, arrival_date, age_group, count, arrival_date_year, arrival_date_month
-   b. How it is built:
-       - Drop dulicates on the rows from immigration file
-       - extarct the data only for air travel
-       - remove junk data in different columns and convert the columns to correct format
-       - Change the sas date format to normal date format 
-       - Join the port of entry file and immigration file on port to get the city and state
-       - extract the dates for arrival date dimension table
-       - Group by fields (Country_of_residency_code, city, state, visa_type, arrival_date, age_group, arrival_date_year, arrival_date_month) 
-       and extract count 
-       - Append the table by partitoning on arrival_date_year, arrival_date_month
+    A. immigration_fact - i94 records represent only air travel
+     a. Data Dictionary
+         - Country_of_residency_code, city, state, visa_type, arrival_date, age_group, count, arrival_date_year, arrival_date_month
+     b. How it is built:
+         - Drop dulicates on the rows from immigration file
+         - extarct the data only for air travel
+         - remove junk data in different columns and convert the columns to correct format
+         - Change the sas date format to normal date format 
+         - Join the port of entry file and immigration file on port to get the city and state
+         - extract the dates for arrival date dimension table
+         - Group by fields (Country_of_residency_code, city, state, visa_type, arrival_date, age_group, arrival_date_year, arrival_date_month) 
+         and extract count 
+         - Append the table by partitoning on arrival_date_year, arrival_date_month
        
 2. Dimension Tables
 
- A. us_visas - all the us visa and purpose of the visa
-    a. Data Dictionary
-        - visa_type, visa purpose
-    b. How it is built:
-        - Use us visa file,drop dulicates on the visa type
-        - remove any junk data in the columns
-        - Overwirte the table 
-    
- B. country_codes - country and the code for the country
-   a. Data Dictionary  
-       - country_code, country
-   b. How it is Built:
-        - Use US country code file,drop dulicates on the country code
-        - remove any junk data in the columns
-        - Overwirte the table 
-       
- C. cities_demographics - city and its demographics
-    a. Data Dictionary
-       - city, state, state_code, median_age, male_population, female_population, total_population, number_of_veterans, average_household_size
-    b. How it is build:
-        - Use City demographics file drop dulicates on the city and state
-        - remove any junk data in the columns
-        - Extract the columns mentioned in the data dictionary 
-        - rename the columns name to correct format
-        - Overwirte the table 
-        
- D. arrival_dates - arrival date in immigration broken into specific units
-    a. Data Dictionary 
-        - arrival_date, arrival_date_year, arrival_date_month, arrival_date_day, weekday
-    b. How it is built:
-        - Use arrival date extracted from immigration file,  drop dulicates on the arrival date 
-        - Extract the columns mentioned in the data dictionary using the arrival date
-        - Append the table 
+   A. us_visas - all the us visa and purpose of the visa
+      a. Data Dictionary
+          - visa_type, visa purpose
+      b. How it is built:
+          - Use us visa file,drop dulicates on the visa type
+          - remove any junk data in the columns
+          - Overwirte the table 
+      
+   B. country_codes - country and the code for the country
+     a. Data Dictionary  
+         - country_code, country
+     b. How it is Built:
+          - Use US country code file,drop dulicates on the country code
+          - remove any junk data in the columns
+          - Overwirte the table 
+         
+   C. cities_demographics - city and its demographics
+      a. Data Dictionary
+         - city, state, state_code, median_age, male_population, female_population, total_population, number_of_veterans, average_household_size
+      b. How it is build:
+          - Use City demographics file drop dulicates on the city and state
+          - remove any junk data in the columns
+          - Extract the columns mentioned in the data dictionary 
+          - rename the columns name to correct format
+          - Overwirte the table 
+          
+   D. arrival_dates - arrival date in immigration broken into specific units
+      a. Data Dictionary 
+          - arrival_date, arrival_date_year, arrival_date_month, arrival_date_day, weekday
+      b. How it is built:
+          - Use arrival date extracted from immigration file,  drop dulicates on the arrival date 
+          - Extract the columns mentioned in the data dictionary using the arrival date
+          - Append the table 
     
 
 #### Why Data Model?
