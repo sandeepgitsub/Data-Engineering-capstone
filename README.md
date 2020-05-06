@@ -81,55 +81,55 @@ Below are the tables defined
 
 1. Fact Table
 
-    A. immigration_fact - i94 records represent only air travel
-     a. Data Dictionary
-         - Country_of_residency_code, city, state, visa_type, arrival_date, age_group, count, arrival_date_year, arrival_date_month
-     b. How it is built:
-         - Drop dulicates on the rows from immigration file
-         - extarct the data only for air travel
-         - remove junk data in different columns and convert the columns to correct format
-         - Change the sas date format to normal date format 
-         - Join the port of entry file and immigration file on port to get the city and state
-         - extract the dates for arrival date dimension table
-         - Group by fields (Country_of_residency_code, city, state, visa_type, arrival_date, age_group, arrival_date_year, arrival_date_month) 
-         and extract count 
-         - Append the table by partitoning on arrival_date_year, arrival_date_month
+    1. immigration_fact - i94 records represent only air travel
+       a. Data Dictionary
+           - Country_of_residency_code, city, state, visa_type, arrival_date, age_group, count, arrival_date_year, arrival_date_month
+       b. How it is built:
+           - Drop dulicates on the rows from immigration file
+           - extarct the data only for air travel
+           - remove junk data in different columns and convert the columns to correct format
+           - Change the sas date format to normal date format 
+           - Join the port of entry file and immigration file on port to get the city and state
+           - extract the dates for arrival date dimension table
+           - Group by fields (Country_of_residency_code, city, state, visa_type, arrival_date, age_group, arrival_date_year, arrival_date_month) 
+           and extract count 
+           - Append the table by partitoning on arrival_date_year, arrival_date_month
        
 2. Dimension Tables
 
-   A. us_visas - all the us visa and purpose of the visa
-      a. Data Dictionary
-          - visa_type, visa purpose
-      b. How it is built:
-          - Use us visa file,drop dulicates on the visa type
-          - remove any junk data in the columns
-          - Overwirte the table 
-      
-   B. country_codes - country and the code for the country
-     a. Data Dictionary  
-         - country_code, country
-     b. How it is Built:
-          - Use US country code file,drop dulicates on the country code
-          - remove any junk data in the columns
-          - Overwirte the table 
-         
-   C. cities_demographics - city and its demographics
-      a. Data Dictionary
-         - city, state, state_code, median_age, male_population, female_population, total_population, number_of_veterans, average_household_size
-      b. How it is build:
-          - Use City demographics file drop dulicates on the city and state
-          - remove any junk data in the columns
-          - Extract the columns mentioned in the data dictionary 
-          - rename the columns name to correct format
-          - Overwirte the table 
-          
-   D. arrival_dates - arrival date in immigration broken into specific units
-      a. Data Dictionary 
-          - arrival_date, arrival_date_year, arrival_date_month, arrival_date_day, weekday
-      b. How it is built:
-          - Use arrival date extracted from immigration file,  drop dulicates on the arrival date 
-          - Extract the columns mentioned in the data dictionary using the arrival date
-          - Append the table 
+     1. us_visas - all the us visa and purpose of the visa
+        a. Data Dictionary
+            - visa_type, visa purpose
+        b. How it is built:
+            - Use us visa file,drop dulicates on the visa type
+            - remove any junk data in the columns
+            - Overwirte the table 
+        
+     2. country_codes - country and the code for the country
+       a. Data Dictionary  
+           - country_code, country
+       b. How it is Built:
+            - Use US country code file,drop dulicates on the country code
+            - remove any junk data in the columns
+            - Overwirte the table 
+           
+     3. cities_demographics - city and its demographics
+        a. Data Dictionary
+           - city, state, state_code, median_age, male_population, female_population, total_population, number_of_veterans, average_household_size
+        b. How it is build:
+            - Use City demographics file drop dulicates on the city and state
+            - remove any junk data in the columns
+            - Extract the columns mentioned in the data dictionary 
+            - rename the columns name to correct format
+            - Overwirte the table 
+            
+     4. arrival_dates - arrival date in immigration broken into specific units
+        a. Data Dictionary 
+            - arrival_date, arrival_date_year, arrival_date_month, arrival_date_day, weekday
+        b. How it is built:
+            - Use arrival date extracted from immigration file,  drop dulicates on the arrival date 
+            - Extract the columns mentioned in the data dictionary using the arrival date
+            - Append the table 
     
 
 #### Why Data Model?
@@ -161,36 +161,36 @@ Immigration dag (dags/immigration_dag.py) created as below to create the data la
 
 Tasks used in the dag (executed in order mentioned above)
 
-a. Create_cluster
-    - this task is used to create the cluster and returns the cluster id
+1. Create_cluster
+      - this task is used to create the cluster and returns the cluster id
     
-b. wait_for_cluster_completion
-    - this task waits until the cluster is created . once the cluster is created task gets completed.
+2. wait_for_cluster_completion
+      - this task waits until the cluster is created . once the cluster is created task gets completed.
     
-c. transform_us_visas
-    - this task submits the spark script (dags/transform/us_visas.py) to EMR using livy which extracts the us visa file, transform and loads to S3 in parquet
+3. transform_us_visas
+      - this task submits the spark script (dags/transform/us_visas.py) to EMR using livy which extracts the us visa file, transform and loads to S3 in parquet
     
-d. transform_city_demographics
-    - this task submits the spark script  (dags/transform/cities_demographics.py) to EMR using livy which extracts the cities demographics file, transform and loads citties_demographics dimension table to S3 in parquet 
+4. transform_city_demographics
+      - this task submits the spark script  (dags/transform/cities_demographics.py) to EMR using livy which extracts the cities demographics file, transform and loads citties_demographics dimension table to S3 in parquet 
     
-e. transform_immigration
-    - this task submits the spark script  (dags/transform/immigration.py) to EMR using livy which does below 
-    1. extracts the immigration fie, airports file ,joins the files, transforms
-    2. extracts arrival date and transforms 
-    3. loads immigration_fact  and arrival date dimension to S3 in parquet
+5. transform_immigration
+      - this task submits the spark script  (dags/transform/immigration.py) to EMR using livy which does below 
+      1. extracts the immigration fie, airports file ,joins the files, transforms
+      2. extracts arrival date and transforms 
+      3. loads immigration_fact  and arrival date dimension to S3 in parquet
     
-f. transform_country_code 
-    - this task submits the spark script  (dags/transform/country_codes.py) to EMR using livy which extracts the country  file, 
+6. transform_country_code 
+      - this task submits the spark script  (dags/transform/country_codes.py) to EMR using livy which extracts the country  file, 
     transform and loads country_code dimension table to S3 in parquet
     
-g. quality_checks
-    - this task submits the spark script (dags/transform/quality_checks.py) to EMR using livy which checks the qulaity of the tables . errors when there are issues with data
+7. quality_checks
+      - this task submits the spark script (dags/transform/quality_checks.py) to EMR using livy which checks the qulaity of the tables . errors when there are issues with data
 
-h. collect_stats
-    - this task submits the spark script (dags/transform/collect_stats.py) to EMR using livy which joins tables and get the summary stats for each questions we have and loads to s3 in parquet
+8. collect_stats
+      - this task submits the spark script (dags/transform/collect_stats.py) to EMR using livy which joins tables and get the summary stats for each questions we have and loads to s3 in parquet
 
-i. terminate_cluster
-    - this task terminates the EMR cluster created
+9. terminate_cluster
+      - this task terminates the EMR cluster created
 
 ## Any other scripts used 
 
